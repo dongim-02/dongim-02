@@ -12,7 +12,8 @@
 - 🌱 KISIA 보안 크루 활동 및 KCI 논문 경험.
 - 🎯 작은 변화라도 구조를 설계하고 실행으로 옮기는 것을 중요하게 생각합니다.
 - 📫 How to reach me: dongim0712@gmail.com 
-- 🌐 My Portfolio: https://dongim-02.github.io
+- 🌐 My Portfolio: https://dongim-02.github.io 
+- 👨‍💻 My Profile: https://sites.google.com/view/dongimhan
 
 <br/>
 
@@ -31,6 +32,7 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/IoT-000000?style=for-the-badge&logo=Arduino&logoColor=white"/>
   <img src="https://img.shields.io/badge/Security-4A154B?style=for-the-badge&logo=cyberdefenders&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FreeCAD-CB333B?style=for-the-badge&logo=freecad&logoColor=white"/>
 </p>
 
 <br/>
@@ -47,6 +49,6 @@
 <br/>
 
 ## 🏆 Awards & Honors
-- **KCI 등재 논문:** 고효율 고신뢰 펌웨어의 최적화된 퍼징을 위한 이벤트 데이터 레코딩 기법 (2025.02)
+- **KCI 등재 논문:** 고효율 고신뢰 펌웨어의 최적화된 퍼징을 위한 이벤트 데이터 레코딩 기법 (KCI 등재, 2025.02)
 - **우수크루상:** ICT 융합 보안크루 1기 우수크루상 (KISIA 주관, 2024.11)
 - **KISTI 원장상:** 제7회 부채널 정보분석 경진대회 (KISTI 주관, 2024.07)
