@@ -40,7 +40,7 @@
 | :--- | :--- | :--- |
 | **Drive: RC카 원격 제어** | WebSocket 기반 RC카 원격 제어 시스템 구축 (`team2`) | ToF 센서 연동 및 카메라 제어 모듈 구현 |
 | **Virtual Fitting Pipeline** | 가상 피팅 데이터 파이프라인 구축 (`virtual-fitting-pipeline`) | 의류 이미지 크롤링 및 데이터 전처리 자동화 |
-| **AutoFactory ROS2** | ROS2 기반 자동화 팩토리 시스템 구현 (`autofactory-ros2`) | [구체적인 로직이나 통신 설계 내용 작성 요망] |
+| **AutoFactory ROS2** | ROS2 기반 자동화 팩토리 시스템 구현 (`autofactory-ros2`) | FreeCAD를 활용한 알약 디스펜서 3D 모델링 및 스텝 모터 정밀 제어 |
 | **IoT 보안 알림 시스템** | Raspberry Pi 기반 침입 감지 시스템 구현 | PIR 센서 연동 및 SMTP 기반 이메일 알림 전송 |
 | **디지털 포렌식 분석** | Autopsy를 활용한 디스크 이미지 비교 분석 | 웹 브라우징 기록 및 파일 보존 시나리오 수행 |
 
