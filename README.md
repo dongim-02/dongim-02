@@ -1,4 +1,4 @@
-# 👨‍💻 Hello, I'm dongim-02 (한동임)!
+# 안녕하세요.
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome%20to%20my%20GitHub!&fontSize=50" />
