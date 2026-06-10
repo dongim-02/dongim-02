@@ -16,7 +16,7 @@
 <br/>
 
 ## 🛠️ Tech Stack
-### Frontend
+### Frontend & UI/UX
 <p>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white"/>
@@ -24,12 +24,12 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/>
 </p>
 
-### Embedded, AI & Security
+### AI, IoT & Systems
 <p>
-  <img src="https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white"/>
   <img src="https://img.shields.io/badge/IoT-000000?style=for-the-badge&logo=Arduino&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Security-4A154B?style=for-the-badge&logo=cyberdefenders&logoColor=white"/>
+  <img src="https://img.shields.io/badge/System_Security-4A154B?style=for-the-badge&logo=cyberdefenders&logoColor=white"/>
   <img src="https://img.shields.io/badge/FreeCAD-CB333B?style=for-the-badge&logo=freecad&logoColor=white"/>
 </p>
 
